@@ -1,0 +1,16 @@
+G:\asp.net test\hello to client\hello to client\bin\Debug\net5.0\hello to client.exe
+G:\asp.net test\hello to client\hello to client\bin\Debug\net5.0\hello to client.deps.json
+G:\asp.net test\hello to client\hello to client\bin\Debug\net5.0\hello to client.runtimeconfig.json
+G:\asp.net test\hello to client\hello to client\bin\Debug\net5.0\hello to client.runtimeconfig.dev.json
+G:\asp.net test\hello to client\hello to client\bin\Debug\net5.0\hello to client.dll
+G:\asp.net test\hello to client\hello to client\bin\Debug\net5.0\ref\hello to client.dll
+G:\asp.net test\hello to client\hello to client\bin\Debug\net5.0\hello to client.pdb
+G:\asp.net test\hello to client\hello to client\obj\Debug\net5.0\hello to client.csproj.AssemblyReference.cache
+G:\asp.net test\hello to client\hello to client\obj\Debug\net5.0\hello to client.GeneratedMSBuildEditorConfig.editorconfig
+G:\asp.net test\hello to client\hello to client\obj\Debug\net5.0\hello to client.AssemblyInfoInputs.cache
+G:\asp.net test\hello to client\hello to client\obj\Debug\net5.0\hello to client.AssemblyInfo.cs
+G:\asp.net test\hello to client\hello to client\obj\Debug\net5.0\hello to client.csproj.CoreCompileInputs.cache
+G:\asp.net test\hello to client\hello to client\obj\Debug\net5.0\hello to client.dll
+G:\asp.net test\hello to client\hello to client\obj\Debug\net5.0\ref\hello to client.dll
+G:\asp.net test\hello to client\hello to client\obj\Debug\net5.0\hello to client.pdb
+G:\asp.net test\hello to client\hello to client\obj\Debug\net5.0\hello to client.genruntimeconfig.cache

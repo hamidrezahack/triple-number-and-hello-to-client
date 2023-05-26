@@ -1,0 +1,16 @@
+G:\asp.net test\triple the number\triple the number\obj\Debug\net5.0\triple the number.csproj.AssemblyReference.cache
+G:\asp.net test\triple the number\triple the number\obj\Debug\net5.0\triple the number.GeneratedMSBuildEditorConfig.editorconfig
+G:\asp.net test\triple the number\triple the number\obj\Debug\net5.0\triple the number.AssemblyInfoInputs.cache
+G:\asp.net test\triple the number\triple the number\obj\Debug\net5.0\triple the number.AssemblyInfo.cs
+G:\asp.net test\triple the number\triple the number\obj\Debug\net5.0\triple the number.csproj.CoreCompileInputs.cache
+G:\asp.net test\triple the number\triple the number\bin\Debug\net5.0\triple the number.exe
+G:\asp.net test\triple the number\triple the number\bin\Debug\net5.0\triple the number.deps.json
+G:\asp.net test\triple the number\triple the number\bin\Debug\net5.0\triple the number.runtimeconfig.json
+G:\asp.net test\triple the number\triple the number\bin\Debug\net5.0\triple the number.runtimeconfig.dev.json
+G:\asp.net test\triple the number\triple the number\bin\Debug\net5.0\triple the number.dll
+G:\asp.net test\triple the number\triple the number\bin\Debug\net5.0\ref\triple the number.dll
+G:\asp.net test\triple the number\triple the number\bin\Debug\net5.0\triple the number.pdb
+G:\asp.net test\triple the number\triple the number\obj\Debug\net5.0\triple the number.dll
+G:\asp.net test\triple the number\triple the number\obj\Debug\net5.0\ref\triple the number.dll
+G:\asp.net test\triple the number\triple the number\obj\Debug\net5.0\triple the number.pdb
+G:\asp.net test\triple the number\triple the number\obj\Debug\net5.0\triple the number.genruntimeconfig.cache
